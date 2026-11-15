@@ -1,0 +1,8 @@
+{
+  "type": "truedeltatale:dark_ruins",
+  "biomes": "#truedeltatale:has_dark_ruins",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none",
+  "rare": true
+}

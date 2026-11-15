@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "truedeltatale:rude_buster" },
+    { "item": "truedeltatale:fireshock" }
+  ],
+  "result": { "item": "truedeltatale:thunder_buster" }
+}

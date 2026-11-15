@@ -1,0 +1,26 @@
+{
+  "itemGroup.truedeltatale": "TRUE DELTA:TALE",
+
+  "item.truedeltatale.rude_buster": "Rude Buster",
+  "item.truedeltatale.rude_buster.tooltip": "A heavy slash. Big damage and knockback.",
+
+  "item.truedeltatale.fireshock": "Fireshock",
+  "item.truedeltatale.fireshock.tooltip": "A bolt of fire that sets the target alight.",
+
+  "item.truedeltatale.iceshock": "IceShock",
+  "item.truedeltatale.iceshock.tooltip": "Freezes the target. Enemies it defeats shatter.",
+
+  "item.truedeltatale.snowgrave": "Snowgrave",
+  "item.truedeltatale.snowgrave.tooltip": "A blizzard where you aim. Craft with any magic item to make Firegrave.",
+
+  "item.truedeltatale.thunder_buster": "Thunder Buster",
+  "item.truedeltatale.thunder_buster.tooltip": "Rude Buster and Fireshock fused. Calls down lightning.",
+
+  "item.truedeltatale.firegrave": "Firegrave",
+  "item.truedeltatale.firegrave.tooltip": "Snowgrave turned inside out. A firestorm where you aim.",
+
+  "item.truedeltatale.knights_swoon": "Knight's Swoon",
+  "item.truedeltatale.knights_swoon.tooltip": "Dash forward and stun everything ahead. 5 uses; repair in an anvil with another magic item.",
+
+  "message.truedeltatale.spent": "The Knight's Swoon is spent. Repair it in an anvil with another magic item."
+}
